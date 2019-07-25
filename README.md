@@ -1,2 +1,2 @@
-# DSBC_HW17
-Visualizing Data with Leaflet
+# Seismic Activity
+Visualizing Seismic Activity with Leaflet
